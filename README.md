@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Mandarin - a AI-powered Mandarin Chinese learning app**
 
-- 👨‍💻 All of my projects are available at [alibizhomart.dev](alibizhomart.dev)
+- 👨‍💻 All of my projects are available at [alibizhomart.dev](https://alibizhomart.dev)
 
 - ⚡ Fun fact **I am pretty good at table tennis**
 
