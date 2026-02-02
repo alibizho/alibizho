@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alibi</h1>
 <h3 align="center">Computer Science Undergraduate | Software & ML | Learning by building</h3>
 
-- 🔭 I’m currently working on **Dumos - a property management software startup**
+- 🔭 I’m currently working on **[Dumos](https://dumos.vercel.app/) - a property management software startup**
 
 - 🌱 I’m currently learning **ML, Deep Learning, PyTorch, Tensorflow, LangChain**
 
